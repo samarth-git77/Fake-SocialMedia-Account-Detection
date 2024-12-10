@@ -1,0 +1,8 @@
+deepesh,swimmer,2,5,100,6,100,90,100,0,instant loan no collateral required_get rich quickly with this app_click the link:http,become rich quickly,10_0_0_0_0_0_10_30_10_40,0_0_0_0_0_0_10_20_50_10,13_1_2000,100_101_102_103_104,0_0_1_2_0_0_0_0_0_2
+dipesh,swimmer,2,5,100,7,80,200,80,0,click the link http:_we are from your bank just click here_we have detected fraud in your account just send otp,send money_get rich in one day,1_2_3_4_5_6_7_8_9_10,1_2_3_4_5_12_7_8_0_11,11_1_2000,109_108_107_106_105,0_0_1_2_0_0_0_0_0_2
+shubham,vlogger,1,5,4,4,120,5,200,0,hello guys_just come over,yeah bro_im here,1_2_3_4_5_6_7_8_9_10,1_2_3_4_5_6_7_8_9_12,12_12_2000,11_12_22_7_23,0_0_1_1_0_0_0_0_0_2
+saurav,cook,1,5,4,4,120,5,0,0,nice pic_im good,yeah bro_i am good,1_2_3_4_5_6_7_8_9_10,1_2_3_4_5_6_7_8_9_12,12_12_2200,11_12_22_9_23,0_0_1_1_0_0_0_0_0_7
+aashish,youtuber,5,0,60,70,10,15,8,0,happy ram navmi,hi wish u ram navmi,105_230_405_50_0_600_113_111_222_321,7_9_0_4_2_3_6_12_40_60,4_8_2005,11_12_22_21_23,0_0_1_0_0_0_0_0_0_0
+aatif,youtuber,5,0,60,70,10,15,8,0,happy ram navmi,hi wish u ram navmi,1_2_4_5_0_6_1_1_22_30,7_9_0_4_2_3_6_12_40_60,4_8_2005,1_1_2_2_0,0_0_1_10_0_0_0_0_0_0
+aradhya,youtuber,5,0,60,70,10,15,8,1,happy ram navmi,hi wish u ram navmi,1_2_4_5_0_6_1_1_22_30,7_9_0_4_2_3_6_12_40_60,4_8_2005,1_1_2_2_0,0_10_1_0_0_0_0_0_0_0
+sona,hero,5,0,60,70,10,15,8,1,happy ram navmi,hi wish u ram navmi,1_2_4_5_0_6_1_1_22_30,7_9_0_4_2_3_6_12_40_60,4_8_2005,1_1_2_2_0,0_0_1_10_0_0_0_0_0_0

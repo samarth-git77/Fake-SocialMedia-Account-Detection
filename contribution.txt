@@ -1,0 +1,30 @@
+Group Number 20
+
+Deepesh Bhatiya : Implementation of Check if Similar Name with different Variant(eg. hanook ~ hanuk) is Encountered
+                  Implementation of Check percentage of similar Bio of users  is Encountered
+                  Implementation of Check if Similar PHOTOS of users is Encountered
+                  Helps in LOGIC 
+
+Deoraj Gope :     Implementation of Function Checking Spam Message with different word dictionary                     
+                  Implementation of Function Checking Spam Comment with different word dictionary                     
+                  Implementation of File Handling
+                  Database Creation           
+                  Helps in LOGIC 
+
+Samarth Priyadarshi : Implementation of Function which Check Activity Time 
+                      Implementation of Function which Check Frequency Of Commenting 
+                      Implementation of Function which Check Frequency Of Posting 
+                      Helps in LOGIC 
+
+Arekanti Hanook :      Implementation of Function Goverment Id
+                       Helps In Creating Database
+                       Helps in File Handling
+                       Helps in LOGIC 
+
+Sourav Kumar Gupta : Implementation of Function Report Checking
+                     Creating Dictionary
+                     Helps in Creating PPT
+                     Create Data Flow Diagram
+                     Helps in LOGIC 
+
+                      
